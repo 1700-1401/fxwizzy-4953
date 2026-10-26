@@ -1,0 +1,12 @@
+## Fxwizzy implementation
+- Approved: responsive web only; no login or execution; real screenshot AI, local history.
+- Design: original magenta/gold logo, charcoal terminal, gold primary CTA, emerald/red chart.
+- API: analysis.analyze (vision structured setup); analysis.mentor (context-aware follow-up).
+- Data: local browser history, no global user table. Images sent transiently to AI only after analysis action.
+- Screens: Analyzer, saved journal, risk calculator, guide; settings dialog.
+- AI: gateway openai/gpt-5.4-mini, cautious educational mentor; no current prices, fabricated certainty or guaranteed profits.
+- Implemented: all approved screens and real vision/mentor endpoints; supplied logo and local fonts.
+- Verified: production build + lint pass; real AI rejected non-chart input, reviewed sample screenshot and answered follow-up; browser persistence and risk rounding pass; zero browser runtime errors.
+- Verified mobile: no horizontal page overflow; navigation, image-type rejection, two-chart selection/removal, unsupported screen-capture fallback and preference storage pass.
+- Source archive: /home/user/Fxwizzy-source.zip, 106 files, integrity verified, .env and dependencies excluded.
+- Complete: ready to deliver website on fixed port 4200 and source archive. No live prices or broker execution; no profit guarantee.
